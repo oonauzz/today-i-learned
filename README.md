@@ -1,4 +1,4 @@
-# Check out my website here
+# Check out my website and let me know what you think!
 https://todayilearned-oonazhou.netlify.app/
 
 # Getting Started with Create React App
